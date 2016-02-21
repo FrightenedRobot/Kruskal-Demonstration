@@ -1,2 +1,3 @@
 # Kruskal-Demonstration
-Provides a text representation of finding a minimum spanning tree in a connected weighted graph
+The algorithm runs off an input text file in the Main package. Alternate graphs can be set up by editing the text in that file. 
+
